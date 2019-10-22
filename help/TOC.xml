@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="goParty" target="introduccion" />
+  <tocitem text="Entrar a la aplicación">
+  	<tocitem text="Registro" target="registro" />
+  	<tocitem text="Inicio de sesión" target="login" />
+  </tocitem>
+  <tocitem text="Organizar la fiesta"> 
+  	<tocitem text="Selección de artículos" target="seleccion" />
+  	<tocitem text="Tipo de artículos" target="articulos" />
+  	<tocitem text="Uso de la cesta" target="login" />
+  </tocitem>
+  <tocitem text="Introducción de datos" target="datos" />
+  <tocitem text="Confirmación" target="confirmacion" />
+
+</toc>

@@ -1,0 +1,19 @@
+BE001@Bebida@Cerveza@Cerveza holandesa en formato de barril de cinco litros@17@0
+BE002@Bebida@Refrescos@Variedad de refrescos de cola, naranja, limón y tónica@1.5@0
+BE003@Bebida@Sangría@Un litro de bebida elaborada con vino tinto, agua, azúcar, limón y trozos de fruta@6.5@0
+BE004@Bebida@Wiskie@Wiskie irlandés de la mejor calidad@9@0
+CO001@Comida@Brocheta de langostinos@Langostinos, piña y tomate cherry@2@0
+CO002@Comida@Canapés variados@De ensaladilla, jamón y tomate, tortilla, ibéricos@2.5@0
+CO003@Comida@Gambas orly@Colas de gambas rebozadas en masa de fritura@3@0
+CO004@Comida@Sandwiches@Variados: jamón york y queso, jamón serrano y tomate, bonito y mayonesa, vegetal@3@0
+CO005@Comida@Snaks@Variado de Patatas fritas, cacahuetes, aceitunas@1.5@0
+CO006@Comida@Tarta de chocolate@Tarta de tres chocolates en vasitos individuales@2@0
+DE001@Decoración@Ambiente Disco@Juego de luces y bola giratoria al estilo años 70@0@100
+DE002@Decoración@Ambiente Haloween@Calabazas, velas y máscaras darán ambiente a una fiesta terrorífica@0@80
+DE003@Decoración@Globos@Grupos de globos en colores variados. Si deseas un solo color o una combinación de colores de globos concreta, indícalo al reservar tu fiesta@0@25
+DE004@Decoración@Guirnaldas de colores@Decoración a base de guirnaldas en colores variados. Si deseas un solo color o una combinación de colores concreta, indícalo al reservar tu fiesta@0@30
+LO001@Local@Bar@Céntrico local con barra para servir bebidas y espacio central para bailar@0@250
+LO002@Local@Pub estilo irlandés@Acogedor local con ambientación irlandesa@0@400
+LO003@Local@Salón Hotel@Espacioso local para grandes fiestas@0@700
+OT001@Otros@Disc-jockey@Si deseas contratar este servicio, puedes indicar el tipo de música que deseas al formalizar tu fiesta@0@200
+OT002@Otros@Fuente iluminada para bebidas@Esta fuente puede mantener cualquier bebida, bien sea vino, champan cócteles u otros licores. Cada invitado podrá servirse la bebida que desee@0@60

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+	<indexitem text="acerca de" target="introduccion"/>
+	<indexitem text="añadir">	
+		<indexitem text="añadir artículos" target="seleccion" />	
+		<indexitem text="añadir invitados" target="seleccion" />	
+		</indexitem>
+	<indexitem text="artículos">	
+		<indexitem text="añadir artículos" target="seleccion" />	
+		<indexitem text="eliminar artículos" target="cesta" />		
+		<indexitem text="tipos de artículos" target="articulos" />	
+		</indexitem>
+	<indexitem text="cambiar idioma" target="introduccion" />
+	<indexitem text="cancelar pedido" target="introduccion" />
+	<indexitem text="cerrar">
+		<indexitem text="cerrar aplicación" target="introduccion" />	
+		<indexitem text="cerrar sesión" target="login" />		
+		</indexitem>
+	<indexitem text="cesta" target="cesta" />		
+	<indexitem text="confirmar" target="confirmacion" />
+	<indexitem text="datos personales" target="datos" />	
+	<indexitem text="descripción de goParty" target="introduccion" />	
+	<indexitem text="factura" target="confirmacion" />		
+	<indexitem text="fecha" target="datos" />		
+	<indexitem text="hora" target="datos" />		
+	<indexitem text="invitado" target="login" />
+	<indexitem text="observaciones" target="datos"/>
+	<indexitem text="precio">
+		<indexitem text="desglose de precio" target="cesta" />	
+		<indexitem text="precio de los artículos" target="articulos" />
+		</indexitem>	
+	<indexitem text="registro" target="registro" />		
+	<indexitem text="sesión">		
+		<indexitem text="iniciar sesión" target="login" />	
+		<indexitem text="iniciar sesión como invitado" target="login" />
+		<indexitem text="cerrar sesión" target="login" />
+		</indexitem>		
+	<indexitem text="usuario">		
+		<indexitem text="cambiar usuario" target="login" />	
+		<indexitem text="crear usuario" target="registro" />
+		</indexitem>	
+	<indexitem text="vaciar cesta" target="cesta" />	
+</index>
